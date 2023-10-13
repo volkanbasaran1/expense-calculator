@@ -7,7 +7,6 @@
 </head>
 <body>
     <h1>Harcama Hesaplayıcı</h1>
-
     <h2>Yapılacaklar</h2>
     <ul>
         <li><strong>Ekleme Özelliği:</strong>
