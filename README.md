@@ -16,8 +16,7 @@
                 <li>Harcama kartının "Ödendi" kutusu işaretlendiğinde, bu elemana "paid" sınıfını ekleyin.</li>
                 <li>Tüm inputları temizleyin.</li>
             </ol>
-        </li>
-        <li><strong>Toplam Bilgisi:</strong>
+        </li><li><strong>Toplam Bilgisi:</strong>
             <ol>
                 <li>HTML'de bir toplam alanı oluşturun ve JavaScript'te bir "toplam" değişkeni oluşturun.</li>
                 <li>Her harcama eklediğinizde, harcamanın fiyatını "toplam" değişkenine ekleyin.</li>
