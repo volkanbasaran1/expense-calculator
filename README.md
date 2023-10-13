@@ -17,7 +17,6 @@
                 <li>Tüm inputları temizleyin.</li>
             </ol>
         </li>
-
         <li><strong>Toplam Bilgisi:</strong>
             <ol>
                 <li>HTML'de bir toplam alanı oluşturun ve JavaScript'te bir "toplam" değişkeni oluşturun.</li>
@@ -26,7 +25,6 @@
                 <li>Her "toplam" değiştiğinde, ekrandaki toplam bilgisini güncelleyin.</li>
             </ol>
         </li>
-
         <li><strong>Silme | Güncelleme Özelliği:</strong>
             <ol>
                 <li>Listedeki tüm tıklanma olaylarını izleyin.</li>
@@ -34,7 +32,6 @@
                 <li>Tıklanan elemanın ID'si "update" ise, "paid" sınıfını ekleyin veya çıkarın.</li>
             </ol>
         </li>
-
         <li><strong>Harcamaları Filtreleme:</strong>
             <ol>
                 <li>HTML'de bir seçim alanı (select) oluşturun.</li>
@@ -43,7 +40,6 @@
             </ol>
         </li>
     </ul>
-
     <h2>Kullanım</h2>
     <ol>
         <li>Projeyi tarayıcınızda veya bir web sunucusunda açın.</li>
