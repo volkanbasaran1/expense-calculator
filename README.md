@@ -1,3 +1,4 @@
+![ekran](https://github.com/volkanbasaran1/expense-calculator/assets/76842256/a9f8550f-566f-4dda-882a-6d7a9c9956e6)
 <!DOCTYPE html>
 <html lang="en">
 <head>
